@@ -1,0 +1,12 @@
+D:\Pete\Personal\Studying\Labs\Cloud-Technologies-Lab4\4LabTgBot\obj\Release\net7.0\PubTmp\Out\Cloud-Technologies-Lab4.exe
+D:\Pete\Personal\Studying\Labs\Cloud-Technologies-Lab4\4LabTgBot\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\Pete\Personal\Studying\Labs\Cloud-Technologies-Lab4\4LabTgBot\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\Pete\Personal\Studying\Labs\Cloud-Technologies-Lab4\4LabTgBot\obj\Release\net7.0\PubTmp\Out\Cloud-Technologies-Lab4.dll
+D:\Pete\Personal\Studying\Labs\Cloud-Technologies-Lab4\4LabTgBot\obj\Release\net7.0\PubTmp\Out\Cloud-Technologies-Lab4.deps.json
+D:\Pete\Personal\Studying\Labs\Cloud-Technologies-Lab4\4LabTgBot\obj\Release\net7.0\PubTmp\Out\Cloud-Technologies-Lab4.runtimeconfig.json
+D:\Pete\Personal\Studying\Labs\Cloud-Technologies-Lab4\4LabTgBot\obj\Release\net7.0\PubTmp\Out\Cloud-Technologies-Lab4.pdb
+D:\Pete\Personal\Studying\Labs\Cloud-Technologies-Lab4\4LabTgBot\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+D:\Pete\Personal\Studying\Labs\Cloud-Technologies-Lab4\4LabTgBot\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Pete\Personal\Studying\Labs\Cloud-Technologies-Lab4\4LabTgBot\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Pete\Personal\Studying\Labs\Cloud-Technologies-Lab4\4LabTgBot\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+D:\Pete\Personal\Studying\Labs\Cloud-Technologies-Lab4\4LabTgBot\obj\Release\net7.0\PubTmp\Out\Telegram.Bot.dll
